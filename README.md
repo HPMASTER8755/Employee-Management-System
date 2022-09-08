@@ -1,2 +1,2 @@
-# Employee_Management_System
-A system to manage employees of an office
+# Library_Management_System
+A system to manage library of an institution.
